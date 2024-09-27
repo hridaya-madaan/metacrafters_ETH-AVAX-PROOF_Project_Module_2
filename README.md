@@ -28,5 +28,6 @@ After this, the project will be running on your local host, typically at `http:/
 
 
 ## Project By
-- Anshuman Roshan
+- HRIDAYA MADAAN
+phri2898@gmail.com
 
